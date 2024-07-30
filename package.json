@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~3.2.1",
+    "daisyui": "^4.12.10",
     "expo": "~51.0.22",
     "expo-constants": "~16.0.2",
     "expo-status-bar": "~1.12.1",
