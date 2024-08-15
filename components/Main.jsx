@@ -10,8 +10,8 @@ export default function Main() {
     <View style={{ paddingBottom: insets.bottom, paddingTop: insets.top }}>
       <Topbar />
       <Feed />
-      <Text style={styles.text}>Texto muy interesante</Text>
-      <NavigationButtons />
+      {/* <Text style={styles.text}>Texto muy interesante</Text> */}
+      {/* <NavigationButtons /> */}
     </View>
   );
 }
