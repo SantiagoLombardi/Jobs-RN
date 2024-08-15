@@ -1,9 +1,8 @@
-/* eslint-disable prettier/prettier */
-import { View,  Image } from "react-native";
+import { View, Image } from "react-native";
 import { ColorBlueMid } from "../styles/constants";
 
 const image = {
-  uri: '../assets/images/Logo.png',
+  uri: "../assets/images/Logo.png",
   width: 55,
   height: 25,
 };
